@@ -1,6 +1,5 @@
-package JavaCourse.Collection.ArrayList;
+package JavaCourse.Collection.List;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
