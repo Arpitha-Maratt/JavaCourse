@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class removeElement {
+public class removeEvenNumber {
     public static void main(String[] args) {
 
         List<Integer> numbers = new ArrayList<>(Arrays.asList(10, 15, 20, 25, 30, 35));
