@@ -3,7 +3,7 @@ package JavaCourse.collection.list;
 import java.util.Arrays;
 import java.util.List;
 
-public class maxElement {
+public class FindMaxElement {
     public static void main(String[] args) {
 
        /* List<Integer> numbers = new ArrayList<>();

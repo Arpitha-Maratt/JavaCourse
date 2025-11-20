@@ -1,8 +1,8 @@
-package JavaCourse.Collection.List;
+package JavaCourse.collection.list;
 
 import java.util.*;
 
-public class removeDuplicate {
+public class RemoveDuplicate {
     public static void main(String[] args) {
         List<Integer> numbers = Arrays.asList(1, 2, 2, 3, 4, 4, 5);
 

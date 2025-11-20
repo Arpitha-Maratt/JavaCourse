@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class maxAndMin {
+public class FindMaxAndMinElement {
     public static void main(String[] args) {
 
         List<Integer> numbers = Arrays.asList(15, 42, 7, 28, 33);
