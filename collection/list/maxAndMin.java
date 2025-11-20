@@ -1,4 +1,4 @@
-package JavaCourse.Collection.List;
+package JavaCourse.collection.list;
 
 import java.util.Arrays;
 import java.util.Collections;

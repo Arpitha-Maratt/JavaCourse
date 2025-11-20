@@ -1,4 +1,4 @@
-package JavaCourse.Arrays;
+package JavaCourse.arrays;
 
 public class FindZeroAndEncounter {
     public static void main(String[] args) {
