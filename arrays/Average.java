@@ -1,6 +1,6 @@
 package JavaCourse.Arrays;
 
-public class average {
+public class Average {
     public static void main(String[] args) {
 
         //initialize and declare

@@ -1,6 +1,6 @@
 package JavaCourse.Collection.List.ArrayList;
 import java.util.ArrayList;
-public class lastIndex {
+public class LastIndex {
     public static void main(String[] args) {
 
                 ArrayList<String> cars = new ArrayList<String>();

@@ -1,6 +1,6 @@
 package JavaCourse.Arrays;
 
-public class removeElement {
+public class RemoveElement {
     public static void main(String[] args) {
 
         int[] arr = {10,20,30,40,50};

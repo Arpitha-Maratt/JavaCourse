@@ -1,6 +1,6 @@
 package JavaCourse.Arrays;
 
-public class elementWithIndex {
+public class ElementWithIndex {
     public static void main(String[] args) {
 
         String[] seats = {"Arpitha","Amulya","Akshay","Rachana"};

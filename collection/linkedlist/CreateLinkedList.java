@@ -1,4 +1,4 @@
 package JavaCourse.Collection.LinkedList;
 
-public class create {
+public class CreateLinkedList {
 }

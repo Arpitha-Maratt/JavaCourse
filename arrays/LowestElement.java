@@ -1,6 +1,6 @@
 package JavaCourse.Arrays;
 
-public class lowestElement {
+public class LowestElement {
     public static void main(String[] args) {
         int[] ages = {20,34,12,51,19,23};
         int lowest = ages[0];

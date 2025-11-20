@@ -2,7 +2,7 @@ package JavaCourse.Arrays;
 
 import java.util.Arrays;
 
-public class rotatedArray {
+public class RotatedArray {
     public static int[] clockwise(int[] arr){
             int last = arr[arr.length-1];
             for(int i= arr.length-1;i>0;i--){

@@ -1,6 +1,6 @@
 package JavaCourse.Arrays;
 
-public class condition {
+public class FindZeroAndEncounter {
     public static void main(String[] args) {
 
         int[] numbers1 = {1, 2, 5, -2, 70, 0, 8};
